@@ -19,16 +19,6 @@
 ├─manifest.json         配置应用名称、appid、logo、版本等打包信息，详见<br />
 └─pages.json            配置页面路由、导航条、选项卡等页面类信息，详见<br />
 
-##  MOCK
-
-- https://mock.boxuegu.com/project/335/interface/api/7056
-
-## Git
-
-- http://git.itcast.cn/development/project-p2p-java-uniapp
-
-## 原型
-- http://czpm.itcast.cn/%E4%B8%87%E4%BF%A1%E9%87%91%E8%9E%8D/#g=1&p=%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97
 
 ## 安装使用
 
