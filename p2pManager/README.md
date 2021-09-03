@@ -1,11 +1,6 @@
 # 金融管理后台
 
 
-## 项目信息
-
-- git：http://git.itcast.cn/development/project-p2p-cmm-java-react
-- mock：https://mock.boxuegu.com/project/335/interface/api/7056
-
 ## 技术栈
 
 -   使用 vue-element-admin 集成方案
